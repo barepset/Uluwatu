@@ -54,7 +54,7 @@
 - Iking Elharts
 - Musthofa fahmi
 - Andika fauzi
-- Barep Setyadi
+- [Barep Setyadi](https://github.com/barepset)
 - [Firman wahyudi](https://github.com/firmanwyd)
 
 ## Jaminan Kualitas
